@@ -1,5 +1,8 @@
-PyShtrih
+PyShtrih-BDM
 --------
+
+Временно не работает
+____
 
 |Version| |PyVersions| |License|
 
@@ -17,7 +20,7 @@ PyShtrih
 ---------
 ::
 
-    $ pip install pyshtrih
+    $ pip install pyshtrih-bdm
 
 Поддерживаемое оборудование
 ---------------------------
@@ -40,7 +43,7 @@ PyShtrih
 --------------------
 .. code-block:: python
 
-    import pyshtrih
+    import pyshtrih-bdm
 
 
     def discovery_callback(port, baudrate):
@@ -145,11 +148,11 @@ PyShtrih
 
 Лицензия
 --------
-MIT лицензия. Подробнее в файле `LICENSE <https://github.com/oleg-golovanov/pyshtrih/blob/master/LICENSE>`_.
+MIT лицензия. Подробнее в файле `LICENSE <https://github.com/pporokka/pyshtrih-bdm/blob/master/LICENSE>`_.
 
 .. |Version| image:: https://img.shields.io/pypi/v/pyshtrih.svg
-    :target: https://pypi.python.org/pypi/pyshtrih
+    :target: https://pypi.python.org/pypi/pyshtrih-bdm
 .. |PyVersions| image:: https://img.shields.io/pypi/pyversions/pyshtrih.svg
-    :target: https://pypi.python.org/pypi/pyshtrih
+    :target: https://pypi.python.org/pypi/pyshtrih-bdm
 .. |License| image:: https://img.shields.io/github/license/oleg-golovanov/pyshtrih.svg
-    :target: https://github.com/oleg-golovanov/pyshtrih/blob/master/LICENSE
+    :target: https://github.com/pporokka/pyshtrih-bdm/blob/master/LICENSE
